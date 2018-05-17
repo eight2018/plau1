@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1526499604 source:c:\users\gusta\desktop\parcial1 laurenzano1e\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526499376 c:\users\gusta\desktop\parcial1 laurenzano1e\publicacion.h
+	"persona.h"
+
+1526499320 c:\users\gusta\desktop\parcial1 laurenzano1e\persona.h
+
+1526243218 c:\users\gusta\desktop\parcial1 laurenzano1e\utn.h
+
+1526500262 source:c:\users\gusta\desktop\parcial1 laurenzano1e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+	"publicacion.h"
+	"informes.h"
+
+1526499250 c:\users\gusta\desktop\parcial1 laurenzano1e\informes.h
+
+1526499250 source:c:\users\gusta\desktop\parcial1 laurenzano1e\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+
+1526499250 source:c:\users\gusta\desktop\parcial1 laurenzano1e\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526243218 source:c:\users\gusta\desktop\parcial1 laurenzano1e\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526499604 source:f:\parcial1 laurenzano1e\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526499376 f:\parcial1 laurenzano1e\publicacion.h
+	"persona.h"
+
+1526499320 f:\parcial1 laurenzano1e\persona.h
+
+1526243218 f:\parcial1 laurenzano1e\utn.h
+
+1526500262 source:f:\parcial1 laurenzano1e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+	"publicacion.h"
+	"informes.h"
+
+1526499250 f:\parcial1 laurenzano1e\informes.h
+
+1526499250 source:f:\parcial1 laurenzano1e\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+
+1526499250 source:f:\parcial1 laurenzano1e\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526243218 source:f:\parcial1 laurenzano1e\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526499604 source:e:\parcial1 laurenzano1e\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526499376 e:\parcial1 laurenzano1e\publicacion.h
+	"persona.h"
+
+1526499320 e:\parcial1 laurenzano1e\persona.h
+
+1526243218 e:\parcial1 laurenzano1e\utn.h
+
+1526500262 source:e:\parcial1 laurenzano1e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+	"publicacion.h"
+	"informes.h"
+
+1526499250 e:\parcial1 laurenzano1e\informes.h
+
+1526499250 source:e:\parcial1 laurenzano1e\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"persona.h"
+	"utn.h"
+
+1526499250 source:e:\parcial1 laurenzano1e\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"persona.h"
+
+1526243218 source:e:\parcial1 laurenzano1e\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
